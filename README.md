@@ -1,6 +1,4 @@
-# Preact Boilerplate / Starter Kit for a Weather App
-
-## Set-Up Guide
+# Set-Up Guide
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
 - [Quick Boilerplate Overview](#quick-boilerplate-overview)
